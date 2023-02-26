@@ -1,0 +1,2 @@
+.App{background-color:#000}.App a{color:#fff;font-size:25px;margin-left:20px;text-decoration:none}.App a.active{color:coral;font-size:30px}.App,.app2{align-items:center;display:flex;justify-content:center}.container{display:grid;grid-template-columns:1fr}.card-container{background-color:aqua}@media screen and (min-width:992px){.container{grid-gap:50px;display:grid;gap:50px;grid-template-columns:1fr 1fr 1fr}}
+/*# sourceMappingURL=main.5682470d.css.map*/

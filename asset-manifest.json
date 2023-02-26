@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DynamicRoutring_React/static/css/main.5682470d.css",
+    "main.js": "/DynamicRoutring_React/static/js/main.a9559437.js",
+    "index.html": "/DynamicRoutring_React/index.html",
+    "main.5682470d.css.map": "/DynamicRoutring_React/static/css/main.5682470d.css.map",
+    "main.a9559437.js.map": "/DynamicRoutring_React/static/js/main.a9559437.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5682470d.css",
+    "static/js/main.a9559437.js"
+  ]
+}
