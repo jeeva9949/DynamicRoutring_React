@@ -1,0 +1,16 @@
+.App{
+   background-color: black;
+
+}
+.App a{
+    color:white;
+    margin-left: 20px;
+    font-size:25px;
+    text-decoration:none;
+
+}
+.App a.active{
+    color:coral;
+    font-size:30px;
+
+}
